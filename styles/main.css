@@ -7144,9 +7144,9 @@ Created using IcoMoon - icomoon.io
 
 .cc-profile-image img {
   position: relative;
-  border-radius: 20%;
-  height: 200px;
-  width: 200px;
+  border-radius: 15%;
+  height: auto;
+  width: 230px;
   padding: 0;
   margin: 0;
   border: 15px solid transparent;
