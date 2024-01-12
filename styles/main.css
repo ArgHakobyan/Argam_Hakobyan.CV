@@ -2874,11 +2874,6 @@ h6, .h6 {
 p {
   line-height: 1.61em;
 }
-
-.lineHeight {
-  line-height: px;
-}
-
 .wotkExp {
   margin-bottom: 0;
 }
@@ -2891,6 +2886,9 @@ p {
   color: #fff;
   font-size: 14px;
   text-transform: none;
+}
+.workLinkPolytech {
+  margin-bottom: 8px !important;
 }
 
 .workLink:hover {
